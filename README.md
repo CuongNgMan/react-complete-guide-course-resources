@@ -1,4 +1,4 @@
-# React - The Complete Guide Course Resources
+# React - The Complete Guide Course Resources - Revisit (React 19)
 
 This repository provides access to code files, code snapshots, slides & other resources that are used or provided by the [React - The Complete Guide](https://acad.link/reactjs) course.
 
